@@ -1,0 +1,20 @@
+.navbar{
+    background-color: rgb(255, 255, 255) !important;
+    color: white !important;
+}
+.section{
+    background-color: rgb(108, 174, 249);
+}
+
+#imgss{
+    margin: 40px;
+    border: 5px solid rgb(255, 255, 255);
+}
+#h1paso{
+    margin-top: 50px;
+}
+
+.style-f{
+    color: white;
+    background-color: black;
+}
